@@ -10,7 +10,7 @@ const developer = {
   apellido: "Zapata",
   pais: "Argentina",
   fechaNacimiento: "29/12/1989",
-  habilidades: [javaScript, React.js, Node.js, express, MongoDB, MySQL, Firebase, HTML, CSS, Sass, git, gitHub],
+  habilidades: [javaScript, TypeScript, React.js, Next.js, Node.js, express, MongoDB, MySQL, Firebase, HTML, CSS, Sass, git, gitHub, Boostrap, MaterialUI],
   portfolio: "http://ezequiel-zapata.online/"
 };
 ```
