@@ -10,13 +10,35 @@ const dev = {
   apellido: "Zapata",
   pais: "Argentina",
   fechaNacimiento: "29/12/1989",
-  habilidades: [javaScript, TypeScript, React.js, Next.js, Node.js, express, MongoDB, MySQL, Firebase, HTML, CSS, Sass, git, gitHub, Bootstrap, MaterialUI],
-  social: [
-    portfolio: "[https://zapataezequiel.netlify.app/](https://zapataezequiel.netlify.app/)",
-    linkedin: "[https://www.linkedin.com/in/ezequiel-zapata/](https://www.linkedin.com/in/ezequiel-zapata/)",
+  social: {
+    portfolio: "https://zapataezequiel.netlify.app",
+    linkedin: "https://www.linkedin.com/in/ezequiel-zapata",
     mail: "zapata.ed1989@gmail.com"
-  ]
+  },
+  habilidades: [
+    "javaScript",
+    "TypeScript",
+    "React",
+    "Next",
+    "Node",
+    "express",
+    "Nest",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
+    "Firebase",
+    "Prisma",
+    "sequelize",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "MaterialUI",
+    "TailwindCSS",
+    "NextUi",
+    "git",
+    "gitHub",
   
+  ],
 };
 ```
 
